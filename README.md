@@ -6,7 +6,6 @@
 - 🛡️ Possuo experiência em fazer análise de malware e outros programas.
 - 💻 Tenho experiência como desenvolvedora web.
 
-![Anurag's](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
 
@@ -20,7 +19,6 @@
   <img align="center" alt="Rafa-php" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png">
 
   <img align="center" alt="Rafa-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-c" height="45" width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
   <img align="center" alt="Rafa-c" height="45" width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
   <img align="center" alt="Rafa-c" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png">
   <img align="center" alt="Rafa-c" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png">
