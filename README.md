@@ -6,6 +6,8 @@
 - 🛡️ Possuo experiência em fazer análise de malware e outros programas.
 - 💻 Tenho experiência como desenvolvedora web.
 
+![Anurag's](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 
 ## Tecnologias que eu uso no meu dia
@@ -41,7 +43,6 @@
 
 
 
-[![Star History](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=blue)](https://github.com/lucabubi/star-history)
 
 <!---
 amandaagnerbacchet/amandaagnerbacchet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
