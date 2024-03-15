@@ -40,8 +40,7 @@
   
 </div>
 
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amandaagnerbacchet&bg_color=ffffff&color=000000&line=32989f&point=70a7ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---
