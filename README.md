@@ -1,10 +1,8 @@
 
-### Olá eu sou Amanda
-- 👀 Sou uma desenvolvedora full-stack.
-- 🔒 Estou focada em aprimorar todos os códigos para garantir uma maior segurança.
-- 💼 Sou estudante de Análise e Desenvolvimento de Sistemas e Cybersegurança.
-- 🛡️ Possuo experiência em fazer análise de malware e outros programas.
-- 💻 Tenho experiência como desenvolvedora web.
+# Olá, eu sou a Amanda
+
+Sou uma empreendedora no ramo de tecnologia, sempre buscando criar novas soluções inovadoras para o mercado. Minha paixão é desenvolver projetos que façam a diferença e impulsionem o futuro da tecnologia. 
+
 
 
 
