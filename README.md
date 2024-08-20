@@ -25,6 +25,8 @@ Sou uma empreendedora, sempre buscando criar novas soluções para o mercado e a
 </div>
 
 
+
+
 ### Contato
 
 <div> 
@@ -36,10 +38,11 @@ Sou uma empreendedora, sempre buscando criar novas soluções para o mercado e a
   
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amandaagnerbacchet&bg_color=ffffff&color=000000&line=32989f&point=70a7ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Meus Projetos
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="200" width="350" src="">
+</div>
 
-
-<!---
 amandaagnerbacchet/amandaagnerbacchet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
