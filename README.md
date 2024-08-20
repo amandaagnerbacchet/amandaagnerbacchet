@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Amanda
 
-Sou uma empreendedora no ramo de tecnologia, sempre buscando criar novas soluções inovadoras para o mercado. Minha paixão é desenvolver projetos que façam a diferença e impulsionem o futuro da tecnologia. 
+Sou uma empreendedora, sempre buscando criar novas soluções para o mercado e aprender. Minha paixão é desenvolver projetos que façam a diferença e impulsionem o futuro da tecnologia. 
 
 
 
