@@ -40,9 +40,8 @@ Sou uma empreendedora, sempre buscando criar novas soluções para o mercado e a
 
 ## Meus Projetos
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="200" width="350" src="">
+  <img align="center" alt="Rafa-HTML" height="600" width="1500" src="https://github.com/amandaagnerbacchet/site_plural/blob/main/Captura%20de%20tela%202024-08-20%20202146.png">
 </div>
 
-amandaagnerbacchet/amandaagnerbacchet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
