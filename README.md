@@ -40,7 +40,7 @@ Sou uma empreendedora, sempre buscando criar novas soluções para o mercado e a
 
 ## Meus Projetos
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="400" width="1300" src="https://github.com/amandaagnerbacchet/site_plural/blob/main/Captura%20de%20tela%202024-08-20%20202146.png">
+  <img align="center" alt="Rafa-HTML" height="500" width="1300" src="https://github.com/amandaagnerbacchet/site_plural/blob/main/Captura%20de%20tela%202024-08-20%20202146.png">
 </div>
 
 
