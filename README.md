@@ -39,6 +39,8 @@ Sou uma empreendedora, sempre buscando criar novas soluções para o mercado e a
 </div>
 
 ## Meus Projetos
+Aqui estão alguns projetos, aproveite e se divirta-se.
+
 
 
 ## Site-Plural
