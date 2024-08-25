@@ -44,7 +44,10 @@ Aqui está alguns projetos, aproveite e se divirta-se.
 
 
 ## Site-Plural
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>  Component 2 (1).pdf
+  <img align="center" alt="Rafa-HTML" height="470" width="1300" src="https://github.com/amandaagnerbacchet/site_plural/blob/main/Captura%20de%20tela%202024-08-20%20202146.png">
+</div>
+<div style="display: inline_block"><br>  Component 2 (1).pdf
   <img align="center" alt="Rafa-HTML" height="470" width="1300" src="https://github.com/amandaagnerbacchet/site_plural/blob/main/Captura%20de%20tela%202024-08-20%20202146.png">
 </div>
 
