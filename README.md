@@ -41,14 +41,18 @@ Sou uma empreendedora, sempre buscando criar novas soluções para o mercado e a
 ## Meus Projetos
 Aqui está alguns projetos, aproveite e se divirta-se.
 
-
+<div ><br><br><br>  </div>
 
 ## Site-Plural
 <div style="display: inline_block"><br>  
-  <img align="center" alt="Rafa-HTML" height="470" width="1300" src="https://github.com/amandaagnerbacchet/site_plural/blob/main/Captura%20de%20tela%202024-08-20%20202146.png">
+  <img align="center" alt="Rafa-HTML" height="470" width="1150" src="https://github.com/amandaagnerbacchet/site_plural/blob/main/Captura%20de%20tela%202024-08-20%20202146.png">
 </div>
+<div ><br><br><br>  </div>
+
+
+## Sistema-Restaurante
 <div style="display: inline_block"><br>  
-  <img align="center" alt="Rafa-HTML" height="470" width="1300" src="https://github.com/amandaagnerbacchet/sistema_restaurante/blob/main/Component%202%20(1).pdf)">
+  <img align="center" alt="Rafa-HTML" height="470" width="1150" src="https://github.com/amandaagnerbacchet/sistema_restaurante/blob/main/Component%202.jpg">
 </div>
 
 
