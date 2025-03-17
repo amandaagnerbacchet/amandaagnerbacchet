@@ -1,10 +1,18 @@
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
 
-# Olá, eu sou a Amanda
+
+### Contato
+
+<div> 
+  <a href = "mailto: bacchetaamanda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/amanda-agner-695773235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+
+ # Olá, eu sou a Amanda
 
 Sou desenvolvedora focada em criar soluções práticas e eficientes, sempre buscando resolver desafios e aprimorar sistemas para atender necessidades reais. Tenho experiência em diversos tipos de projetos, com ênfase em desenvolvimento de software e soluções tecnológicas.
-
-
-
 
 ## Tecnologias que eu uso no meu dia
 
@@ -20,15 +28,14 @@ Sou desenvolvedora focada em criar soluções práticas e eficientes, sempre bus
 </div>
 
 
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
 
 
-### Contato
 
-<div> 
-  <a href = "mailto: bacchetaamanda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amanda-agner-695773235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
 ## Meus Projetos
 
