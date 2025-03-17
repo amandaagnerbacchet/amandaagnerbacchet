@@ -1,4 +1,4 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://github.com/amandaagnerbacchet/amandaagnerbacchet/blob/main/Amanda.png" alt="Mokkapps GitHub README header image">
 
 
 ### Contato
@@ -26,13 +26,6 @@ Sou desenvolvedora focada em criar soluções práticas e eficientes, sempre bus
   
   
 </div>
-
-
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
 
 
 
